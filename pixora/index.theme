@@ -2,12 +2,12 @@
 Name=Pixora
 Comment=Tux-on-Pixels + tsora additions, pixelitos hybrid
 Inherits=pixelitos-dark, hicolor
-Directories=apps/scalable
+Directories=scalable/apps
 
-[apps/scalable]
-Size=48
-Type=Scalable
+[scalable/apps]
+Size=16
 Context=Applications
-MinSize=16
+Type=Scalable
+MinSize=8
 MaxSize=512
 
