@@ -78,7 +78,7 @@ function installation {
 
 dir=$(pwd)
 git pull
-if [ -d "$HOME/.local/share/icons/pixelitos-dark" ] && [ -d "$HOME/.local/share/icons/pixelitos-light" ] && [ -d "$HOME/.local/share/icons/pixora" ]; then
+if [ -d "$HOME/.local/share/icons/pixelitos-dark" ] || [ -d "$HOME/.local/share/icons/pixelitos-light" ] || [ -d "$HOME/.local/share/icons/pixora" ]; then
 	echo -e "\n\nPixora Icon Theme already installed."
 	echo -e -n "Do you want to reinstall it? ${GREEN}[Y/n]${NC}: "
 	read -r confirm
