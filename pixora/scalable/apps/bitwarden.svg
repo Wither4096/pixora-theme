@@ -12,7 +12,8 @@
   <defs
      id="defs1" />
   <g
-     id="layer1">
+     id="layer1"
+     style="display:inline">
     <path
        style="display:inline;fill:#3e3546"
        d="m 2,0 h 12 v 1 h 1 v 1 h 1 v 12 h -1 v 1 h -1 v 1 H 2 V 15 H 1 V 14 H 0 V 2 H 1 V 1 h 1 z"
@@ -31,11 +32,11 @@
        id="path4" />
     <path
        style="display:inline;fill:#ffffff;fill-opacity:1"
-       d="m 3,3 h 10 v 8 h -2 v 1 H 9 v 1 H 7 V 12 H 5 V 11 H 3 Z"
+       d="m 4,3 h 8 v 7 h -1 v 1 h -1 v 1 H 9 v 1 H 7 V 12 H 6 V 11 H 5 V 10 H 4 Z"
        id="path5" />
     <path
        style="display:inline;fill:#4d65b4;fill-opacity:1"
-       d="m 8,4 h 4 v 6 h -1 v 1 H 9 v 1 H 8 Z"
+       d="m 8,4 h 3 v 5 h -1 v 1 H 9 v 1 H 8 Z"
        id="path6" />
   </g>
 </svg>
