@@ -1,41 +1,50 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   version="1.1"
-   id="svg1"
-   width="16"
-   height="16"
-   viewBox="0 0 16 16"
-   xml:space="preserve"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg"><defs
-     id="defs1" /><g
-     id="g1"><image
-       width="16"
-       height="16"
-       preserveAspectRatio="none"
-       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAgAAAAIACAYAAAD0eNT6AAAKHElEQVR4nO3YsaqbdRzH4TeSyd6A&#10;UIcDnSNiaTq1KRQa3ARxqZfhdK4gUycHr8AuRXArGQoNnRpQxDMLR7CzU+d4F/6Gz/PcwPf/Ju/J&#10;+fBfXS6XpWy33Y/uP3n6aHT/7Zt37RcAwp48fbSa3H/75t3k/HI6H5eyT6YPAAD8/wQAAAQJAAAI&#10;EgAAECQAACBIAABAkAAAgCABAABBAgAAggQAAAQJAAAIEgAAECQAACBIAABAkAAAgCABAABBAgAA&#10;ggQAAAQJAAAIEgAAECQAACBIAABAkAAAgCABAABBAgAAggQAAAQJAAAIEgAAECQAACBIAABAkAAA&#10;gKD19AHq3r55d5ncP52Pk/PAoN12P/r7syzLang/zQ0AAAQJAAAIEgAAECQAACBIAABAkAAAgCAB&#10;AABBAgAAggQAAAQJAAAIEgAAECQAACBIAABAkAAAgCABAABBAgAAggQAAAQJAAAIEgAAECQAACBI&#10;AABAkAAAgCABAABBAgAAggQAAAQJAAAIEgAAECQAACBIAABAkAAAgCABAABB6+kD7Lb70f0vv/pi&#10;dP+P3/8c3f/n/U+j+0DX9O/vbvj/z+l8HN13AwAAQQIAAIIEAAAECQAACBIAABAkAAAgSAAAQJAA&#10;AIAgAQAAQQIAAIIEAAAECQAACBIAABAkAAAgSAAAQJAAAIAgAQAAQQIAAIIEAAAECQAACBIAABAk&#10;AAAgSAAAQJAAAIAgAQAAQQIAAIIEAAAECQAACBIAABAkAAAgSAAAQNDq8YNnS9xlcvx0Pk7OA4zZ&#10;bffTn/6q/PvvBgAAggQAAAQJAAAIEgAAECQAACBIAABAkAAAgCABAABBAgAAggQAAAQJAAAIEgAA&#10;ECQAACBIAABAkAAAgCABAABBAgAAggQAAAQJAAAIEgAAECQAACBIAABAkAAAgCABAABBAgAAggQA&#10;AAQJAAAIEgAAECQAACBIAABAkAAAgKD13Yd3Rg/w4f3HyxK22+6Xsp9//Gb6CADJ3383AAAQJAAA&#10;IEgAAECQAACAIAEAAEECAACCBAAABAkAAAgSAAAQJAAAIEgAAECQAACAIAEAAEECAACCBAAABAkA&#10;AAgSAAAQJAAAIEgAAECQAACAIAEAAEECAACCBAAABAkAAAgSAAAQJAAAIEgAAECQAACAIAEAAEEC&#10;AACCBAAABK0/vP94mTzAty/vTc4z7Pvnv04fAei6TI7ffXhnNbnvBgAAggQAAAQJAAAIEgAAECQA&#10;ACBIAABAkAAAgCABAABBAgAAggQAAAQJAAAIEgAAECQAACBIAABAkAAAgCABAABBAgAAggQAAAQJ&#10;AAAIEgAAECQAACBIAABAkAAAgCABAABBAgAAggQAAAQJAAAIEgAAECQAACBIAABAkAAAgKD19AFe&#10;/P3p9BEY9MPLez5/IOmX539dJvfdAABAkAAAgCABAABBAgAAggQAAAQJAAAIEgAAECQAACBIAABA&#10;kAAAgCABAABBAgAAggQAAAQJAAAIEgAAECQAACBIAABAkAAAgCABAABBAgAAggQAAAQJAAAIEgAA&#10;ECQAACBIAABAkAAAgCABAABBAgAAggQAAAQJAAAIEgAAELSePgCzrq5vRvdfHDbp578dfn5mef/a&#10;rob33QAAQJAAAIAgAQAAQQIAAIIEAAAECQAACBIAABAkAAAgSAAAQJAAAIAgAQAAQQIAAIIEAAAE&#10;CQAACBIAABAkAAAgSAAAQJAAAIAgAQAAQQIAAIIEAAAECQAACBIAABAkAAAgSAAAQJAAAIAgAQAA&#10;QQIAAIIEAAAECQAACBIAABC0nj5A3dX1zej+6Xwc3d9t96P79ee/PWyWMn9/3r8yNwAAECQAACBI&#10;AABAkAAAgCABAABBAgAAggQAAAQJAAAIEgAAECQAACBIAABAkAAAgCABAABBAgAAggQAAAQJAAAI&#10;EgAAECQAACBIAABAkAAAgCABAABBAgAAggQAAAQJAAAIEgAAECQAACBIAABAkAAAgCABAABBAgAA&#10;ggQAAAStl7ir65vR/dP5uJR5/tnvf7fdj+7fHjaj+1DmBgAAggQAAAQJAAAIEgAAECQAACBIAABA&#10;kAAAgCABAABBAgAAggQAAAQJAAAIEgAAECQAACBIAABAkAAAgCABAABBAgAAggQAAAQJAAAIEgAA&#10;ECQAACBIAABAkAAAgCABAABBAgAAggQAAAQJAAAIEgAAECQAACBIAABAkAAAgKD1End72Izu77b7&#10;0f3T+Ti67/n36fcfmOMGAACCBAAABAkAAAgSAAAQJAAAIEgAAECQAACAIAEAAEECAACCBAAABAkA&#10;AAgSAAAQJAAAIEgAAECQAACAIAEAAEECAACCBAAABAkAAAgSAAAQJAAAIEgAAECQAACAIAEAAEEC&#10;AACCBAAABAkAAAgSAAAQJAAAIEgAAECQAACAoPUSd3V9M7p/Oh+XMs8/+/3vtvvR/dvDJr1f//yZ&#10;5QYAAIIEAAAECQAACBIAABAkAAAgSAAAQJAAAIAgAQAAQQIAAIIEAAAECQAACBIAABAkAAAgSAAA&#10;QJAAAIAgAQAAQQIAAIIEAAAECQAACBIAABAkAAAgSAAAQJAAAIAgAQAAQQIAAIIEAAAECQAACBIA&#10;ABAkAAAgSAAAQJAAAICg9RJ3e9iM7u+2+9H90/k4uu/59+n3f9rV9c3ofv3vr/7+TXMDAABBAgAA&#10;ggQAAAQJAAAIEgAAECQAACBIAABAkAAAgCABAABBAgAAggQAAAQJAAAIEgAAECQAACBIAABAkAAA&#10;gCABAABBAgAAggQAAAQJAAAIEgAAECQAACBIAABAkAAAgCABAABBAgAAggQAAAQJAAAIEgAAECQA&#10;ACBIAABA0Hr6AHW3h83o/m67H933/LPff533z/tX5gYAAIIEAAAECQAACBIAABAkAAAgSAAAQJAA&#10;AIAgAQAAQQIAAIIEAAAECQAACBIAABAkAAAgSAAAQJAAAIAgAQAAQQIAAIIEAAAECQAACBIAABAk&#10;AAAgSAAAQJAAAIAgAQAAQQIAAIIEAAAECQAACBIAABAkAAAgSAAAQJAAAICg1eMHzy6TB/jtu68n&#10;5wFgxP1Xr5dJbgAAIEgAAECQAACAIAEAAEECAACCBAAABAkAAAgSAAAQJAAAIEgAAECQAACAIAEA&#10;AEECAACCBAAABAkAAAgSAAAQJAAAIEgAAECQAACAIAEAAEECAACCBAAABAkAAAgSAAAQJAAAIEgA&#10;AECQAACAIAEAAEECAACCBAAABAkAAAha//v5Z6vJA9x/9foyuQ8AE6b//7oBAIAgAQAAQQIAAIIE&#10;AAAECQAACBIAABAkAAAgSAAAQJAAAIAgAQAAQQIAAIIEAAAECQAACBIAABAkAAAgSAAAQJAAAIAg&#10;AQAAQQIAAIIEAAAECQAACBIAABAkAAAgSAAAQJAAAIAgAQAAQQIAAIIEAAAECQAACBIAABAkAABg&#10;6fkPjZabLH2mcngAAAAASUVORK5CYII=&#10;"
-       id="image1"
-       x="0"
-       y="0" /><g
-       id="g209"><path
-         style="fill:#fefefe"
-         d="M 4.5,13 H 4 V 12.5 12 H 3.5 3 V 11.5 11 H 3.5 4 V 10.5 10 H 3.5 3 V 9.5 9 H 3.5 4 V 8.5 8 H 4.5 5 V 8.5 9 H 5.5 6 V 8.5 8 H 6.5 7 V 8.5 9 H 7.5 8 V 9.5 10 H 7.5 7 V 10.5 11 H 7.5 8 V 11.5 12 H 7.5 7 V 12.5 13 H 6.5 6 V 12.5 12 H 5.5 5 v 0.5 0.5 z m 1,-2 H 6 V 10.5 10 H 5.5 5 v 0.5 0.5 z m 6,2 H 11 V 12.5 12 h 0.5 0.5 v 0.5 0.5 z m 0,-2 H 11 V 9.5 8 H 11.5 12 V 9.5 11 Z M 8,4 H 3 V 3.5 3 h 5 5 V 3.5 4 Z M 8,2 H 4 V 1.5 1 h 4 4 V 1.5 2 Z"
-         id="path214" /><path
-         style="fill:#e2c795"
-         d="M 9,5 H 5 V 4.5 4 h 4 4 V 4.5 5 Z M 8,3 H 4 V 2.5 2 h 4 4 V 2.5 3 Z"
-         id="path213" /><path
-         style="fill:#90da68"
-         d="M 10,7 H 5 V 6.5 6 H 3 1 V 5.5 5 H 3 5 V 5.5 6 h 5 5 V 6.5 7 Z"
-         id="path212" /><path
-         style="fill:#1dbb72"
-         d="M 2.5,14 H 1 V 10 6 H 3 5 V 6.5 7 H 5.5 6 V 7.5 8 H 5.5 5 V 7.5 7 H 4.5 4 V 7.5 8 H 3.5 3 V 8.5 9 H 2.5 2 V 9.5 10 H 2.5 3 V 10.5 11 H 2.5 2 V 11.5 12 H 2.5 3 V 12.5 13 H 3.5 4 v 0.5 0.5 z m 3,0 H 5 V 13.5 13 H 5.5 6 V 13.5 14 Z M 9,14 H 7 V 13.5 13 H 7.5 8 V 12.5 12 H 8.5 9 V 11.5 11 H 8.5 8 V 10.5 10 H 8.5 9 V 9.5 9 H 8.5 8 V 8.5 8 H 7.5 7 V 7.5 7 h 2 2 V 7.5 8 H 10.5 10 V 9.5 11 H 10.5 11 V 11.5 12 H 10.5 10 v 0.5 0.5 h 0.5 0.5 v 0.5 0.5 z m 4.5,0 H 12 V 13.5 13 H 12.5 13 V 12.5 12 H 12.5 12 V 11.5 11 H 12.5 13 V 9.5 8 H 12.5 12 V 7.5 7 h 1.5 1.5 v 3.5 3.5 z"
-         id="path211" /><path
-         style="fill:#0a898e"
-         d="M 8,15 H 1 V 14.5 14 h 7 7 v 0.5 0.5 z"
-         id="path210" /><path
-         style="fill:#3d3445"
-         d="M 8,16 H 1 V 15.5 15 H 0.5 0 V 10 5 H 0.5 1 V 4.5 4 H 1.5 2 V 3.5 3 H 2.5 3 V 2 1 H 3.5 4 V 0.5 0 h 4 4 V 0.5 1 H 12.5 13 V 2 3 H 13.5 14 V 4 5 H 14.5 15 V 5.5 6 H 15.5 16 V 10.5 15 H 15.5 15 v 0.5 0.5 z m 0,-1 h 7 V 10.5 6 H 10 5 V 5.5 5 h 4 4 V 4 3 H 12.5 12 V 2 1 H 8 4 V 2 3 H 3.5 3 V 3.5 4 H 4 5 V 4.5 5 H 3 1 v 5 5 z M 4.5,14 H 4 V 13.5 13 H 3.5 3 V 12.5 12 H 2.5 2 V 11.5 11 H 2.5 3 V 10.5 10 H 2.5 2 V 9.5 9 H 2.5 3 V 8.5 8 H 3.5 4 V 7.5 7 H 4.5 5 V 7.5 8 H 5.5 6 V 7.5 7 H 6.5 7 V 7.5 8 H 7.5 8 V 8.5 9 H 8.5 9 V 9.5 10 H 8.5 8 V 10.5 11 H 8.5 9 V 11.5 12 H 8.5 8 V 12.5 13 H 7.5 7 V 13.5 14 H 6.5 6 V 13.5 13 H 5.5 5 v 0.5 0.5 z m 0,-1 H 5 V 12.5 12 H 5.5 6 V 12.5 13 H 6.5 7 V 12.5 12 H 7.5 8 V 11.5 11 H 7.5 7 V 10.5 10 H 7.5 8 V 9.5 9 H 7.5 7 V 8.5 8 H 6.5 6 V 8.5 9 H 5.5 5 V 8.5 8 H 4.5 4 V 8.5 9 H 3.5 3 V 9.5 10 H 3.5 4 V 10.5 11 H 3.5 3 V 11.5 12 H 3.5 4 v 0.5 0.5 z m 1,-2 H 5 V 10.5 10 H 5.5 6 v 0.5 0.5 z m 6,3 H 11 V 13.5 13 H 10.5 10 V 12.5 12 H 10.5 11 V 11.5 11 H 10.5 10 V 9.5 8 H 10.5 11 V 7.5 7 H 11.5 12 V 7.5 8 H 12.5 13 V 9.5 11 H 12.5 12 V 11.5 12 H 12.5 13 V 12.5 13 H 12.5 12 v 0.5 0.5 z m 0,-1 H 12 V 12.5 12 H 11.5 11 v 0.5 0.5 z m 0,-2 H 12 V 9.5 8 H 11.5 11 V 9.5 11 Z"
-         id="path209" /></g></g></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generator: visioncortex VTracer 0.6.12 -->
+<svg width="512" height="512" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <path transform="translate(128)" d="m0 0h256v32h32v64h32v64h32v32h32v288h-32v32h-448v-32h-32v-320h32v-32h32v-32h32v-64h32v-32z" fill="#1EBC73"/>
+ <path transform="translate(160,192)" d="m0 0h320v256h-256v-32h-32v-32h-32v32h-32v-32h-32v-32h32v-32h-32v-32h32v-32h32v32h32v-32h32v-32h-64v-32z" fill="#1EBC73"/>
+ <path transform="translate(128)" d="m0 0h256v32h32v128h-256v-32h-64v-96h32v-32z" fill="#fff"/>
+ <path transform="translate(480,192)" d="m0 0h32v288h-32v32h-448v-64h448v-256z" fill="#0B8A8F"/>
+ <path transform="translate(160,192)" d="m0 0h320v256h-96v-32h32v-32h-32v-32h32v-96h-32v-32h-224v-32z" fill="#1EBC73"/>
+ <path transform="translate(96,96)" d="m0 0h320v64h-256v-32h-64v-32z" fill="#fff"/>
+ <path transform="translate(128,256)" d="m0 0h32v32h32v-32h32v32h32v32h-32v32h32v32h-32v32h-32v-32h-32v32h-32v-32h-32v-32h32v-32h-32v-32h32v-32z" fill="#fff"/>
+ <path transform="translate(32,480)" d="m0 0h448v32h-448v-32z" fill="#3E3546"/>
+ <path transform="translate(416,96)" d="m0 0h32v64h32v32h-320v-32h256v-64z" fill="#3E3546"/>
+ <path transform="translate(96,32)" d="m0 0h32v32h256v-32h32v64h-320v-64z" fill="#E3C896"/>
+ <path transform="translate(160,192)" d="m0 0h320v32h-320v-32z" fill="#91DB69"/>
+ <path transform="translate(0,160)" d="m0 0h32v320h-32v-320z" fill="#3E3546"/>
+ <path transform="translate(480,192)" d="m0 0h32v288h-32v-288z" fill="#3E3546"/>
+ <path transform="translate(160,128)" d="m0 0h256v32h-256v-32z" fill="#E3C896"/>
+ <path transform="translate(128)" d="m0 0h256v32h-256v-32z" fill="#3E3546"/>
+ <path transform="translate(64,96)" d="m0 0h32v32h64v32h-128v-32h32v-32z" fill="#3E3546"/>
+ <path transform="translate(160,384)" d="m0 0h32v32h32v32h-96v-32h32v-32z" fill="#1EBC73"/>
+ <path transform="translate(32,160)" d="m0 0h128v32h-128v-32z" fill="#91DB69"/>
+ <path transform="translate(384,256)" d="m0 0h32v96h-32v-96z" fill="#3E3546"/>
+ <path transform="translate(352,256)" d="m0 0h32v96h-32v-96z" fill="#fff"/>
+ <path transform="translate(320,256)" d="m0 0h32v96h-32v-96z" fill="#3E3546"/>
+ <path transform="translate(384,32)" d="m0 0h32v64h-32v-64z" fill="#3E3546"/>
+ <path transform="translate(96,32)" d="m0 0h32v64h-32v-64z" fill="#3E3546"/>
+ <path transform="translate(352,416)" d="m0 0h32v32h-32v-32z" fill="#3E3546"/>
+ <path transform="translate(192,416)" d="m0 0h32v32h-32v-32z" fill="#3E3546"/>
+ <path transform="translate(128,416)" d="m0 0h32v32h-32v-32z" fill="#3E3546"/>
+ <path transform="translate(384,384)" d="m0 0h32v32h-32v-32z" fill="#3E3546"/>
+ <path transform="translate(352,384)" d="m0 0h32v32h-32v-32z" fill="#fff"/>
+ <path transform="translate(320,384)" d="m0 0h32v32h-32v-32z" fill="#3E3546"/>
+ <path transform="translate(224,384)" d="m0 0h32v32h-32v-32z" fill="#3E3546"/>
+ <path transform="translate(160,384)" d="m0 0h32v32h-32v-32z" fill="#3E3546"/>
+ <path transform="translate(96,384)" d="m0 0h32v32h-32v-32z" fill="#3E3546"/>
+ <path transform="translate(352,352)" d="m0 0h32v32h-32v-32z" fill="#3E3546"/>
+ <path transform="translate(256,352)" d="m0 0h32v32h-32v-32z" fill="#3E3546"/>
+ <path transform="translate(64,352)" d="m0 0h32v32h-32v-32z" fill="#3E3546"/>
+ <path transform="translate(224,320)" d="m0 0h32v32h-32v-32z" fill="#3E3546"/>
+ <path transform="translate(160,320)" d="m0 0h32v32h-32v-32z" fill="#3E3546"/>
+ <path transform="translate(96,320)" d="m0 0h32v32h-32v-32z" fill="#3E3546"/>
+ <path transform="translate(256,288)" d="m0 0h32v32h-32v-32z" fill="#3E3546"/>
+ <path transform="translate(64,288)" d="m0 0h32v32h-32v-32z" fill="#3E3546"/>
+ <path transform="translate(224,256)" d="m0 0h32v32h-32v-32z" fill="#3E3546"/>
+ <path transform="translate(160,256)" d="m0 0h32v32h-32v-32z" fill="#3E3546"/>
+ <path transform="translate(96,256)" d="m0 0h32v32h-32v-32z" fill="#3E3546"/>
+ <path transform="translate(352,224)" d="m0 0h32v32h-32v-32z" fill="#3E3546"/>
+ <path transform="translate(192,224)" d="m0 0h32v32h-32v-32z" fill="#3E3546"/>
+ <path transform="translate(128,224)" d="m0 0h32v32h-32v-32z" fill="#3E3546"/>
+</svg>
